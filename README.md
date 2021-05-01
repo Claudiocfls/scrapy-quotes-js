@@ -17,4 +17,4 @@ make run/scrapy_quotes_js
 
 ## Output example
 
-[File with the extracted items](https://github.com/Claudiocfls/scrapy-books/blob/main/books.csv)
+[File with the extracted items](https://github.com/Claudiocfls/scrapy-quotes-js/blob/main/quotes.json)
